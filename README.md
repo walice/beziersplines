@@ -1,11 +1,10 @@
-# beziersplines
 <h1> Bézier splines </h1>
-<h2> Have you ever wondered what smoothing algorithm Excel uses to fit smooth curves on a XY scatter?
-Have you ever found yourself trying to read Y values off an Excel XY scatter plot?
-Did you ever wish there was a simple way to linearly interpolate in Excel?
+<h2> Have you ever wondered what smoothing algorithm Excel uses to fit smooth curves on a XY scatter? </h2>
+<h2> Have you ever found yourself trying to read Y values off an Excel XY scatter plot? </h2>
+<h2> Did you ever wish there was a simple way to linearly interpolate in Excel? </h2>
 
-If you’ve answered Yes to any of the questions above, you may find this new Excel add-in useful.
-</h2>
+<h2> If you’ve answered Yes to any of the questions above, you may find this new Excel add-in useful. </h2>
+
 
 **What does this add-in do?** 
 It provides you with 2 new custom Excel functions:
@@ -48,7 +47,7 @@ This function can handle data in rows or columns, and (monotonically) increasing
 **How do I get this tool?**
 
 1.	If you want the functions to be available in every Excel workbook.
-In Excel, click on File, Options, Add-ins. Scroll down to ‘Manage Excel Add-ins’, and click Go. Click Browse and point to the file ‘Interpolation.xlam’ (attached). Make sure you select it, and the functions will be available in any Excel workbook you use.
+In Excel, click on File, Options, Add-ins. Scroll down to ‘Manage Excel Add-ins’, and click Go. Click Browse and point to the file ‘Interpolation.xlam’. Make sure you select it, and the functions will be available in any Excel workbook you use.
  
 
 2.	If you just want to use the functions as a one-off, or want to see the underlying VBA code.
